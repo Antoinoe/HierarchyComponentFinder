@@ -24,8 +24,11 @@ package created on Unity version: 2022.1.24f1
 GitHub repository: https://github.com/Antoinoe/HierarchyComponentFinder
 
 ## Change Log
+### 15/07/2023 - Version 1.0.2
+Fixed some typos.
+
 ### 15/07/2023 - Version 1.0.1
-Added to the repo a README.md and 2 .png files to help the user setup the package.
+Added to the repo a README.md and 2 .png files to help the user set up the package.
 
 ### 15/07/2023 - Version 1.0.0
 Project init on GitHub with only the .unitypackage
